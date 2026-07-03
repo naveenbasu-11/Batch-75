@@ -8,7 +8,6 @@ public class rectangle {
 		int Area=length*breadth;
 		int perimeter=2*(length+breadth);
 		System.out.println("area of rectangle:"+ Area);
-		System.out.println("perimeter of rectangle:"+ perimeter);
 	}
 
 	public static void main(String[] args) {
